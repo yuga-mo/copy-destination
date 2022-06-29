@@ -1,6 +1,6 @@
 ---
-author: Mike Morisco
-date: 2019-07-10T07:00:00.000Z
+author: Mo
+date: 2019-07-10T07:00:00.000+00:00
 title: Hello world!
 isLive: true
 
